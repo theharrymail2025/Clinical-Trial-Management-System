@@ -5,3 +5,5 @@ J
 contracts/drug-supply.clar,1/b/1bc3fb54ac1b6ba7b79a4cfd02996064117f2ae7
 I
 tests/drug-supply.test.ts,6/d/6d6f7bf51e6a42e11eb92ff8febe60369d696f6f
+N
+contracts/data-collection.clar,8/e/8e0596740b3c1cadac393db7643b0ff43faaa29f
