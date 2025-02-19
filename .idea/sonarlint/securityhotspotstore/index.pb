@@ -3,3 +3,5 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 J
 contracts/drug-supply.clar,1/b/1bc3fb54ac1b6ba7b79a4cfd02996064117f2ae7
+I
+tests/drug-supply.test.ts,6/d/6d6f7bf51e6a42e11eb92ff8febe60369d696f6f
